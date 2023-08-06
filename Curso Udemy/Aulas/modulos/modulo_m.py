@@ -1,0 +1,3 @@
+variavel = 'matheus'
+
+print(variavel)
